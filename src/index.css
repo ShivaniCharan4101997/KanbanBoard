@@ -2,4 +2,10 @@
 
 :root{
     --text-color-primary: #1E293B;
+    --text-color-secondary: #475569;
+    --bg-color-primary:#ffffff;
+    --inProgress:#4F46E5;
+    --reviewed:#F59E0B;
+    --completed:#22C55E;
+    --icons-border-color:#CBD5E1;
 }
